@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <book id="1">
+        <title>The Code Breaker</title>
+        <author>Walter Isaacson</author>
+        <genre>Biography</genre>
+        <price>28.99</price>
+        <publish_date>2021-03-09</publish_date>
+        <description>The story of CRISPR and gene editing technology.</description>
+    </book>
+    <book id="2">
+        <title>Deep Learning</title>
+        <author>Ian Goodfellow</author>
+        <genre>Technology</genre>
+        <price>39.99</price>
+        <publish_date>2016-11-18</publish_date>
+        <description>An introduction to the principles and practices of deep learning.</description>
+    </book>
+    <book id="3">
+        <title>The Silent Patient</title>
+        <author>Alex Michaelides</author>
+        <genre>Thriller</genre>
+        <price>16.99</price>
+        <publish_date>2019-02-05</publish_date>
+        <description>A psychological thriller about a woman who stops speaking after a traumatic incident.</description>
+    </book>
+    <book id="4">
+        <title>The Invisible Life of Addie LaRue</title>
+        <author>V.E. Schwab</author>
+        <genre>Fantasy</genre>
+        <price>24.99</price>
+        <publish_date>2020-10-06</publish_date>
+        <description>The story of a woman who makes a deal to live forever but is forgotten by everyone she meets.</description>
+    </book>
+    <book id="5">
+        <title>Educated</title>
+        <author>Tara Westover</author>
+        <genre>Memoir</genre>
+        <price>18.99</price>
+        <publish_date>2018-02-20</publish_date>
+        <description>A memoir about growing up in a strict and abusive household in rural Idaho and finding the courage to leave and pursue an education.</description>
+    </book>
+    <book id="6">
+        <title>Where the Crawdads Sing</title>
+        <author>Delia Owens</author>
+        <genre>Mystery</genre>
+        <price>15.99</price>
+        <publish_date>2018-08-14</publish_date>
+        <description>A mystery and coming-of-age novel about a young girl who grows up isolated in the marshlands of North Carolina.</description>
+    </book>
+    <book id="7">
+        <title>Becoming</title>
+        <author>Michelle Obama</author>
+        <genre>Autobiography</genre>
+        <price>19.99</price>
+        <publish_date>2018-11-13</publish_date>
+        <description>The former First Lady's memoir, chronicling her life from childhood through her years in the White House.</description>
+    </book>
+    <book id="8">
+        <title>The Vanishing Half</title>
+        <author>Brit Bennett</author>
+        <genre>Historical Fiction</genre>
+        <price>17.99</price>
+        <publish_date>2020-06-02</publish_date>
+        <description>A novel about twin sisters who grow up in a small, southern black community and choose to live in two very different worlds, one black and one white.</description>
+    </book>
+    <book id="9">
+        <title>Atomic Habits</title>
+        <author>James Clear</author>
+        <genre>Self-Help</genre>
+        <price>26.99</price>
+        <publish_date>2018-10-16</publish_date>
+        <description>A guide to building good habits and breaking bad ones with practical strategies.</description>
+    </book>
+    <book id="10">
+        <title>Circe</title>
+        <author>Madeline Miller</author>
+        <genre>Fantasy</genre>
+        <price>18.00</price>
+        <publish_date>2018-04-10</publish_date>
+        <description>A retelling of the story of Circe, the enchantress from Homer's Odyssey, from her own perspective.</description>
+    </book>
+    <book id="11">
+        <title>The Subtle Art of Not Giving a F*ck</title>
+        <author>Mark Manson</author>
+        <genre>Self-Help</genre>
+        <price>21.99</price>
+        <publish_date>2016-09-13</publish_date>
+        <description>A self-help book that challenges conventional wisdom about happiness and success.</description>
+    </book>
+    <book id="12">
+        <title>Little Fires Everywhere</title>
+        <author>Celeste Ng</author>
+        <genre>Fiction</genre>
+        <price>16.99</price>
+        <publish_date>2017-09-12</publish_date>
+        <description>A novel about a wealthy family and a mother-daughter pair who upend their lives.</description>
+    </book>
+    <book id="13">
+        <title>The Goldfinch</title>
+        <author>Donna Tartt</author>
+        <genre>Fiction</genre>
+        <price>20.99</price>
+        <publish_date>2013-10-22</publish_date>
+        <description>A young boy in New York City miraculously survives an accident that takes his mother's life and is taken in by a wealthy family.</description>
+    </book>
+    <book id="14">
+        <title>The Night Circus</title>
+        <author>Erin Morgenstern</author>
+        <genre>Fantasy</genre>
+        <price>15.99</price>
+        <publish_date>2011-09-13</publish_date>
+        <description>A fantasy novel about a magical competition between two young illusionists.</description>
+    </book>
+    <book id="15">
+        <title>The Silent Corner</title>
+        <author>Dean Koontz</author>
+        <genre>Thriller</genre>
+        <price>17.99</price>
+        <publish_date>2017-06-20</publish_date>
+        <description>An FBI agent goes rogue to investigate her husband's death and uncovers a conspiracy.</description>
+    </book>
+    <book id="16">
+        <title>The Outsider</title>
+        <author>Stephen King</author>
+        <genre>Horror</genre>
+        <price>19.99</price>
+        <publish_date>2018-05-22</publish_date>
+        <description>A horror novel about the investigation of a brutal murder that begins to question reality itself.</description>
+    </book>
+    <book id="17">
+        <title>The Immortalists</title>
+        <author>Chloe Benjamin</author>
+        <genre>Fiction</genre>
+        <price>16.99</price>
+        <publish_date>2018-01-09</publish_date>
+        <description>A novel about four siblings who learn the dates of their deaths and how it shapes their lives.</description>
+    </book>
+    <book id="18">
+        <title>The Woman in the Window</title>
+        <author>A.J. Finn</author>
+        <genre>Thriller</genre>
+        <price>17.99</price>
+        <publish_date>2018-01-02</publish_date>
+        <description>A psychological thriller about an agoraphobic woman who believes she witnessed a crime in her neighbor's house.</description>
+    </book>
+    <book id="19">
+        <title>The Light We Lost</title>
+        <author>Jill Santopolo</author>
+        <genre>Romance</genre>
+        <price>15.99</price>
+        <publish_date>2017-05-09</publish_date>
+        <description>A love story about a couple who meet on September 11, 2001, and the choices they make over the years.</description>
+    </book>
+    <book id="20">
+        <title>The Tattooist of Auschwitz</title>
+        <author>Heather Morris</author>
+        <genre>Historical Fiction</genre>
+        <price>16.99</price>
+        <publish_date>2018-01-27</publish_date>
+        <description>The true story of the tattooist of Auschwitz and the woman he loved.</description>
+    </book>
+    <book id="21">
+        <title>Thinking, Fast and Slow</title>
+        <author>Daniel Kahneman</author>
+        <genre>Psychology</genre>
+        <price>14.99</price>
+        <publish_date>2011-10-25</publish_date>
+        <description>A groundbreaking book about human thinking and decision-making processes.</description>
+    </book>
+    <book id="22">
+        <title>Sapiens: A Brief History of Humankind</title>
+        <author>Yuval Noah Harari</author>
+        <genre>History</genre>
+        <price>22.99</price>
+        <publish_date>2014-09-04</publish_date>
+        <description>A narrative of humanity's creation and evolution that explores the ways in which biology and history have defined us.</description>
+    </book>
+    <book id="23">
+        <title>The Power of Habit</title>
+        <author>Charles Duhigg</author>
+        <genre>Self-Help</genre>
+        <price>16.00</price>
+        <publish_date>2012-02-28</publish_date>
+        <description>An exploration of the science behind habits and how we can change them.</description>
+    </book>
+    <book id="24">
+        <title>Grit: The Power of Passion and Perseverance</title>
+        <author>Angela Duckworth</author>
+        <genre>Psychology</genre>
+        <price>18.99</price>
+        <publish_date>2016-05-03</publish_date>
+        <description>A book that argues that the secret to outstanding achievement is not talent but a special blend of passion and persistence.</description>
+    </book>
+    <book id="25">
+        <title>Bad Blood: Secrets and Lies in a Silicon Valley Startup</title>
+        <author>John Carreyrou</author>
+        <genre>Business</genre>
+        <price>17.99</price>
+        <publish_date>2018-05-21</publish_date>
+        <description>The inside story of the rise and fall of Theranos, the one-time multibillion-dollar biotech startup.</description>
+    </book>
+    <book id="26">
+        <title>How to Win Friends and Influence People</title>
+        <author>Dale Carnegie</author>
+        <genre>Self-Help</genre>
+        <price>14.99</price>
+        <publish_date>1936-10-01</publish_date>
+        <description>A classic book on how to improve your relationships and achieve success in life.</description>
+    </book>
+    <book id="27">
+        <title>Quiet: The Power of Introverts in a World That Can't Stop Talking</title>
+        <author>Susan Cain</author>
+        <genre>Psychology</genre>
+        <price>20.00</price>
+        <publish_date>2012-01-24</publish_date>
+        <description>A book that explores the strengths and contributions of introverts in a society that celebrates extroversion.</description>
+    </book>
+    <book id="28">
+        <title>The Lean Startup</title>
+        <author>Eric Ries</author>
+        <genre>Business</genre>
+        <price>17.00</price>
+        <publish_date>2011-09-13</publish_date>
+        <description>A guide to lean startup principles and practices that help entrepreneurs build successful businesses.</description>
+    </book>
+    <book id="29">
+        <title>The Four Agreements</title>
+        <author>Don Miguel Ruiz</author>
+        <genre>Self-Help</genre>
+        <price>12.95</price>
+        <publish_date>1997-11-07</publish_date>
+        <description>A practical guide to personal freedom based on ancient Toltec wisdom.</description>
+    </book>
+    <book id="30">
+        <title>The 5 Love Languages</title>
+        <author>Gary Chapman</author>
+        <genre>Relationships</genre>
+        <price>15.99</price>
+        <publish_date>1992-01-01</publish_date>
+        <description>A book that helps people understand and speak their partner's love language to build stronger relationships.</description>
+    </book>
+    <book id="31">
+        <title>The 7 Habits of Highly Effective People</title>
+        <author>Stephen R. Covey</author>
+        <genre>Self-Help</genre>
+        <price>19.99</price>
+        <publish_date>1989-08-15</publish_date>
+        <description>A principle-centered approach for solving personal and professional problems.</description>
+    </book>
+    <book id="32">
+        <title>Thinking, Fast and Slow</title>
+        <author>Daniel Kahneman</author>
+        <genre>Psychology</genre>
+        <price>14.99</price>
+        <publish_date>2011-10-25</publish_date>
+        <description>A groundbreaking book about human thinking and decision-making processes.</description>
+    </book>
+    <book id="33">
+        <title>Sapiens: A Brief History of Humankind</title>
+        <author>Yuval Noah Harari</author>
+        <genre>History</genre>
+        <price>22.99</price>
+        <publish_date>2014-09-04</publish_date>
+        <description>A narrative of humanity's creation and evolution that explores the ways in which biology and history have defined us.</description>
+    </book>
+    <book id="34">
+        <title>The Power of Habit</title>
+        <author>Charles Duhigg</author>
+        <genre>Self-Help</genre>
+        <price>16.00</price>
+        <publish_date>2012-02-28</publish_date>
+        <description>An exploration of the science behind habits and how we can change them.</description>
+    </book>
+    <book id="35">
+        <title>Grit: The Power of Passion and Perseverance</title>
+        <author>Angela Duckworth</author>
+        <genre>Psychology</genre>
+        <price>18.99</price>
+        <publish_date>2016-05-03</publish_date>
+        <description>A book that argues that the secret to outstanding achievement is not talent but a special blend of passion and persistence.</description>
+    </book>
+    <book id="36">
+        <title>Bad Blood: Secrets and Lies in a Silicon Valley Startup</title>
+        <author>John Carreyrou</author>
+        <genre>Business</genre>
+        <price>17.99</price>
+        <publish_date>2018-05-21</publish_date>
+        <description>The inside story of the rise and fall of Theranos, the one-time multibillion-dollar biotech startup.</description>
+    </book>
+    <book id="37">
+        <title>How to Win Friends and Influence People</title>
+        <author>Dale Carnegie</author>
+        <genre>Self-Help</genre>
+        <price>14.99</price>
+        <publish_date>1936-10-01</publish_date>
+        <description>A classic book on how to improve your relationships and achieve success in life.</description>
+    </book>
+    <book id="38">
+        <title>Quiet: The Power of Introverts in a World That Can't Stop Talking</title>
+        <author>Susan Cain</author>
+        <genre>Psychology</genre>
+        <price>20.00</price>
+        <publish_date>2012-01-24</publish_date>
+        <description>A book that explores the strengths and contributions of introverts in a society that celebrates extroversion.</description>
+    </book>
+    <book id="39">
+        <title>The Lean Startup</title>
+        <author>Eric Ries</author>
+        <genre>Business</genre>
+        <price>17.00</price>
+        <publish_date>2011-09-13</publish_date>
+        <description>A guide to lean startup principles and practices that help entrepreneurs build successful businesses.</description>
+    </book>
+    <book id="40">
+        <title>The Four Agreements</title>
+        <author>Don Miguel Ruiz</author>
+        <genre>Self-Help</genre>
+        <price>12.95</price>
+        <publish_date>1997-11-07</publish_date>
+        <description>A practical guide to personal freedom based on ancient Toltec wisdom.</description>
+    </book>
+    <book id="41">
+        <title>The 5 Love Languages</title>
+        <author>Gary Chapman</author>
+        <genre>Relationships</genre>
+        <price>15.99</price>
+        <publish_date>1992-01-01</publish_date>
+        <description>A book that helps people understand and speak their partner's love language to build stronger relationships.</description>
+    </book>
+    <book id="42">
+        <title>The 7 Habits of Highly Effective People</title>
+        <author>Stephen R. Covey</author>
+        <genre>Self-Help</genre>
+        <price>19.99</price>
+        <publish_date>1989-08-15</publish_date>
+        <description>A principle-centered approach for solving personal and professional problems.</description>
+    </book>
+</catalog>
+
