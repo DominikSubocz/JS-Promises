@@ -9,6 +9,7 @@
 
 .episodes{
   display: flex;
+  flex-wrap: wrap;
 }
 
 .thumnail-episode{
@@ -23,6 +24,36 @@ svg {
 .spinner-border{
   width: 75px;
   height: 75px;
+}
+
+.show{
+  opacity: 100;
+}
+
+.hide{
+  opacity: 0;
+}
+
+#loading-wrapper{
+  height: max-content;
+  background-color: #fff;
+}
+
+.wrapper , #loading-wrapper{
+  transition: opacity 2s ease;
+}
+
+.wrapper ol, .wrapper ul{
+  padding-left: 0;
+}
+
+.zero-height{
+  height: 0px;  
+}
+
+.alert{
+  max-height: 75px;
+  transition:  1s ease;
 }
 
 #loading-screen{
@@ -42,3 +73,8 @@ svg {
 #loading-screen p{
   margin-top:15px
 }
+
+.episodes li{
+  padding:1rem 2rem 0 0;
+}
+

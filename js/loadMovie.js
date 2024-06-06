@@ -1,21 +1,29 @@
 const get_movie = (value = "Game of thrones") => {
   // Challenge: Display a loader
-  const loading_screen = document.querySelector("#loading-screen");
+  const loading_wrapper = document.querySelector("#loading-wrapper");
   const wrapper = document.querySelector(".wrapper");
+  const alert = document.querySelector("#alert");
 
-  loading_screen.classList.add("visible");
+  loading_wrapper.classList.add("show");
+  wrapper.classList.add("hide");
+  alert.classList.add("hide", "zero-height");
+  
 
   
   fetch(`https://api.tvmaze.com/singlesearch/shows?q=${value}&embed=episodes`)
     .then((response) => response.json())
     .then((data) => {
       // Create and return episodes if there are any
-      loading_screen.classList.add("d-none");
-      loading_screen.classList.remove("visible");
+      loading_wrapper.classList.add("hide");
+      loading_wrapper.classList.remove("show");
+
+      wrapper.classList.remove("hide");
+      wrapper.classList.add("show");
+
 
 
       if (data._embedded.episodes.length > 0) {
-        const new_data = data._embedded.episodes.slice(0, 4);
+        const new_data = data._embedded.episodes.slice(0, data._embedded.episodes.length);
 
         create_UI(data);
         return create_episodesUI(new_data);
@@ -28,7 +36,11 @@ const get_movie = (value = "Game of thrones") => {
     
     // When promise gets rejected
     .catch((error) => {
-      console.error("Error"); // Output error message
+      console.error("Error: " + error); // Output error message
+
+      alert.classList.remove("hide", "zero-height");
+      alert.classList.add("show");
+
     });
 };
 
